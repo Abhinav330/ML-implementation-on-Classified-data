@@ -1,3 +1,13 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/624323824c504fbf82755743f47894fe)](https://app.codacy.com/gh/Abhinav330/ML-implementation-on-Classified-data/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/ML-implementation-on-Classified-data/matplotlib?color=beige)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/ML-implementation-on-Classified-data/numpy?color=red)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/ML-implementation-on-Classified-data/pandas?color=silver)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/ML-implementation-on-Classified-data/scikit-learn?color=silver)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/ML-implementation-on-Classified-data/scipy?color=beige)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/ML-implementation-on-Classified-data/seaborn?color=gold)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/ML-implementation-on-Classified-data?color=dark%20green)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abhinav330/ML-implementation-on-Classified-data)
+
 # ML-implementation-on-Classified-data
 This repository implements a K-Nearest Neighbors (KNN) model in Python for predicting loan defaults. It analyzes the KNN_Project_Data dataset (features &amp; binary target 'TARGET CLASS').
 
